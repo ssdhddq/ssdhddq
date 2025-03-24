@@ -1,8 +1,7 @@
-#Hi, I’m Kirill
+# Hi, I’m Kirill
 
-##I’m a mobile developer from Krasnoyarsk, focused on building iOS applications on Swift with UIKit, and SwiftUI.
-###I develop  user-friendly apps, and I’m always working to improve the quality and reliability of my code.
-Occasionally, I take part in hackathons to test ideas and build functional prototypes under time pressure.
+## I’m a mobile developer from Krasnoyarsk, focused on building iOS applications on Swift with UIKit, and SwiftUI.
+#### I develop  user-friendly apps, and I’m always working to improve the quality and reliability of my code. Occasionally, I take part in hackathons to test ideas and build functional prototypes under time pressure.
 
 ### Languages and Tools 
 ![Swift](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
