@@ -1,6 +1,6 @@
 # Hi, I’m Kirill
 
-## I’m a mobile developer from Krasnoyarsk, focused on building iOS applications on Swift with UIKit, and SwiftUI.
+## I’m a mobile developer from Krasnoyarsk, focused on building iOS applications on Swift with UIKit, and SwiftUI. The place of study is SibFU Institute of Space and Information Technologies.
 #### I develop  user-friendly apps, and I’m always working to improve the quality and reliability of my code. Occasionally, I take part in hackathons to test ideas and build functional prototypes under time pressure.
 
 ### Languages and Tools 
